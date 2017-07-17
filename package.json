@@ -15,5 +15,13 @@
     "test": "test"
   },
   "author": "Dmytro Dorotiuk",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorotiukdmytro/project-9.5_dom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dorotiukdmytro/project-9.5_dom/issues"
+  },
+  "homepage": "https://github.com/dorotiukdmytro/project-9.5_dom#readme"
 }
