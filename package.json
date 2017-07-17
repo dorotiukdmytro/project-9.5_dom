@@ -1,0 +1,19 @@
+{
+  "name": "kodilla-project_9.5_dom",
+  "version": "1.0.0",
+  "description": "project_9.5_dom",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "jshint": "^2.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dmytro Dorotiuk",
+  "license": "ISC"
+}
